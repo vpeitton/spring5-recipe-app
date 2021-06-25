@@ -2,9 +2,6 @@ package guru.springframework.domain;
 
 import javax.persistence.*;
 
-/**
- * Created by jt on 6/13/17.
- */
 @Entity
 public class Recipe {
 
@@ -21,7 +18,6 @@ public class Recipe {
     private String directions;
     //todo add
     //private Difficulty difficulty;
-
     @Lob
     private Byte[] image;
 
