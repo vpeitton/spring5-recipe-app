@@ -1,4 +1,4 @@
-package guru.springframework.domain;
+package victoriapeitton.springframework.domain;
 
 import javax.persistence.*;
 
